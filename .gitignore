@@ -5,6 +5,7 @@
 !.gitignore
 !.map-client-workflow.rdf
 !GenerateProvenanceRecord.conf
+!README.rst
 !SerialiseOutput.conf
 !map-client-workflow.proj
 
