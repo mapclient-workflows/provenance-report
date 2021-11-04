@@ -1,0 +1,28 @@
+[General]
+version=0.16.0
+
+[nodes]
+nodelist\1\connections\1\connectedFromIndex=0
+nodelist\1\connections\1\connectedTo=1
+nodelist\1\connections\1\connectedToIndex=0
+nodelist\1\connections\1\selected=false
+nodelist\1\connections\size=1
+nodelist\1\identifier=GenerateProvenanceRecord
+nodelist\1\name=MAP Client Provenance Record
+nodelist\1\position=@Variant(\0\0\0\x1a@q\xb0\0\0\0\0\0@g \0\0\0\0\0)
+nodelist\1\selected=false
+nodelist\1\source_uri=https://github.com/mapclient-plugins/mapclientplugins.mapclientprovenancerecordstep
+nodelist\1\unique_identifier=9f443154-3c8f-11ec-b23d-faffc2364403
+nodelist\2\connections\size=0
+nodelist\2\identifier=SerialiseOutput
+nodelist\2\name=Dict Serializer
+nodelist\2\position=@Variant(\0\0\0\x1a@\x82\x10\0\0\0\0\0@h\0\0\0\0\0\0)
+nodelist\2\selected=false
+nodelist\2\source_uri=https://github.com/mapclient-plugins/mapclientplugins.dictserializerstep
+nodelist\2\unique_identifier=a13f7d9c-3c8f-11ec-b23d-faffc2364403
+nodelist\size=2
+
+[view]
+rect=@Variant(\0\0\0\x14@$\0\0\0\0\0\0@$\0\0\0\0\0\0@\x93\xe4\0\0\0\0\0@\x8cp\0\0\0\0\0)
+scale=1
+transform=@Variant(\0\0\0Q?\xf0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0?\xf0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0?\xf0\0\0\0\0\0\0)

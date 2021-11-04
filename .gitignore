@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# Except the following:
+!.gitignore
+!.map-client-workflow.rdf
+!GenerateProvenanceRecord.conf
+!SerialiseOutput.conf
+!map-client-workflow.proj
+
